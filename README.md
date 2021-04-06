@@ -9,8 +9,8 @@
 <p align='center'>
   <img src="https://i.imgur.com/zE0t9yd.png" width="32" /> 
   <b>Discord</b>: Eitho#9637 <br />
-  <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F?v=v2" width="32" /> 
-  <b>Mail</b>: eitho@outlook.com
+  <!--<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F?v=v2" width="32" /> 
+  <b>Mail</b>: del -->
 </p>
 
 <!--
